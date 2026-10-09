@@ -1,0 +1,10 @@
+
+# Do not upload saved financial transactions
+transactions.json
+
+# Ignore Python temporary files
+__pycache__/
+*.pyc
+
+# Ignore macOS system files
+.DS_Store
