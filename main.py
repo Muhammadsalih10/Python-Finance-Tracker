@@ -51,6 +51,9 @@ while True:
             print("Income must be greater than £0.")
             continue
 
+        balance += income
+
+
 
         transactions.append({
             "type": "income",
